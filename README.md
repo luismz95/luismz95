@@ -1,5 +1,5 @@
 # luismz95
 
-    wave Hi, I’m Luis
+     Hi, I’m Luis
     
 
